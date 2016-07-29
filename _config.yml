@@ -1,0 +1,28 @@
+name: Chris bates
+favicon: null
+layout_spectrum: 0.41593073145486414
+typography_spectrum: 0.3558534102048725
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.09388943878002465
+  lightness: 0.8864509237464517
+  saturation: 0.6128010260872543
+  rhythmicContrast: 0.9011012627743185
+purpose: []
