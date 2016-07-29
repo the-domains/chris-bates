@@ -4,7 +4,7 @@
         <description><![CDATA[Chris bates]]></description>
         <link>https://thegrid.ai/chris-bates/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jul 2016 03:36:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2016 03:38:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chris-bates/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/chris-bates/me/index.html</link>
             <guid isPermaLink="false">6fee14e7-350c-4b91-8ba4-4d6ab05be8ac</guid>
             <pubDate>Fri, 29 Jul 2016 03:36:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7d44972-b861-4113-a61f-d1e400447f01.jpg">]]></description>
-            <link>https://thegrid.ai/chris-bates/me/index.html</link>
-            <guid isPermaLink="false">12f11921-c326-4636-aca7-9c6c4db19d82</guid>
-            <pubDate>Fri, 29 Jul 2016 03:36:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
