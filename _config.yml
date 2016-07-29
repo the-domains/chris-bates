@@ -1,6 +1,6 @@
 name: Chris Bates
 favicon: null
-layout_spectrum: 0.58347
+layout_spectrum: 0.24874
 typography_spectrum: 0.88536
 title: 'Renegade Theologian, High School English Teacher, and Author'
 cta:
@@ -22,8 +22,8 @@ color:
     - '#dfdfdf'
     - '#434343'
     - '#787878'
-  brandStrength: 0.09388943878002465
-  lightness: 0.8864509237464517
-  saturation: 0.6128010260872543
+  brandStrength: 0.6875
+  lightness: 0.625
+  saturation: 0.3125
   rhythmicContrast: 0.75
 purpose: []
